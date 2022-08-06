@@ -1,2 +1,1 @@
-# haribahadur_CTF_walkthrough
-Tis is a guide to solve a beginner level CTF ( https://tryhackme.com/room/haribahadur ) and all credits to this goes to  ( https://github.com/1337mickey )
+[CEH assignment 1.docx](https://github.com/SwapnilPrakashShrestha/haribahadur_CTF_walkthrough/files/9274419/CEH.assignment.1.docx)
